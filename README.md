@@ -26,7 +26,7 @@ Figure out what you need to change to give Javascript access to the `h1#header` 
 
 **YOUR NOTES**
 ```
-
+I added the `.innerText` property to the `header` variable to return the text.
 ```
 
 ## Deliverable 2
