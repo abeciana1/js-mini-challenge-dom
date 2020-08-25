@@ -35,7 +35,7 @@ Now that you have access to the `h1#header` element, use Javascript to change th
 
 **YOUR NOTES**
 ```
-
+I added called on the `.style` property on `header` and then use the CSS declaration `.color` property to assign the color red.
 ```
 
 ## Deliverable 3
