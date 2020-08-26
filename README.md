@@ -57,7 +57,7 @@ Create a DOM element that looks like this for each player and append it to the `
 
 **YOUR NOTES**
 ```
-
+I iterated through the PLAYERS array to return each instance of player into the given HTML template
 ```
 
 ## Deliverable 4
@@ -68,5 +68,5 @@ Hint: You can use `querySelector` with [CSS Attribute Selectors](https://develop
 
 **YOUR NOTES**
 ```
-
+I selected the last player instance using key-value pairs `.player["data-number=7"]` and then the `.remove()` function to remove the player instance.
 ```
